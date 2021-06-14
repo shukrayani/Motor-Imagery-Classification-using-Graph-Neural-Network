@@ -19,3 +19,10 @@ http://www.bbci.de/competition/iii/#data_set_iva
 3. input creation for GNN classifier
 4. Dataset - BNCI2014001
 
+
+**Bandpass+CSP+LDA_classifier.ipynb**
+1. bandpass filter applied
+2. Spatial filter - CSP is applied
+3. classifier - LDA
+4. Dataset - BNCI2014001
+
